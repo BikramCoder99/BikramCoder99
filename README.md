@@ -1,7 +1,6 @@
 # About Me:
 ## Bikram Mondal  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram191199)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrammondal.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram191199) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrammondal.tech@gmail.com)
 
 I am a **Big Data Engineer and System Engineer at Tata Consultancy Services (TCS)** with **4.7+ years of hands-on industry experience** in designing, building, and optimizing scalable data engineering solutions on the **Azure cloud platform**. My work focuses on delivering **reliable, high-performance data pipelines** that enable enterprise analytics and data-driven decision-making.  
 <br><br>
