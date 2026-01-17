@@ -3,16 +3,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram191199) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bikrammondal.tech@gmail.com)
 
 I am a **Big Data Engineer and System Engineer at Tata Consultancy Services (TCS)** with **4.7+ years of hands-on industry experience** in designing, building, and optimizing scalable data engineering solutions on the **Azure cloud platform**. My work focuses on delivering **reliable, high-performance data pipelines** that enable enterprise analytics and data-driven decision-making.  
-<br><br>
-
+<br>
 My core expertise lies in **Big Data and cloud-based ETL engineering**, where I work extensively with **Apache Spark, Azure Databricks, Azure Data Factory, and Azure Data Lake Storage (ADLS Gen2)** to process large-scale structured and semi-structured datasets. I have successfully executed **end-to-end data migrations from Mainframe and Teradata to Azure**, ensuring data accuracy, lineage, and quality compliance.  
-<br><br>
+<br>
 
 I am highly proficient in **PySpark, Python, Spark SQL, SQL, Scala**, and distributed data processing frameworks. My experience includes developing **reusable SQL stored procedures**, **JSON-based curation frameworks**, and **PySpark applications** for data cleansing, validation, transformation, aggregation, and partitioning. I have automated complete ETL lifecycles using **parameterized ADF pipelines, triggers, and Databricks notebook orchestration**, improving pipeline reliability and reducing operational overhead.  
-<br><br>
+<br>
 
 Across projects such as **Trade Price & Promotion Management (TPM)**, **Data Enablement**, and **Pharmacy Data Analysis**, I have collaborated closely with **cross-functional teams** to deliver business-ready datasets, optimize pipeline performance, and reduce project costs by approximately **20%** through efficient design and automation. I also have experience managing **CI/CD deployments using Azure DevOps** and working in **Agile delivery environments**.  
-<br><br>
+<br>
 
 I am passionate about **continuous learning, performance optimization, and building robust cloud-native data ecosystems** that transform raw data into meaningful insights.  
 <br>
